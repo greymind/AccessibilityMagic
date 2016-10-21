@@ -1,0 +1,335 @@
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Components\Directives\frequency-picker\frequency-picker.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Components\GridViews\flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Components\Journal\Directives\journal-entries-for-employee-row-template.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Components\Journal\Directives\journal-entries-for-employee.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Components\Journal\Directives\journal-entry-editor.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Components\Journal\Directives\journal-entry-info-tooltip.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Components\Journal\Directives\journal-preview.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Components\Journal\Directives\journal-shared-with-employees.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Components\Schedule\directive.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\add-rating-scale-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\add-rating-scale-level-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\automatic-weight-editor.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\pe-column-drilldown-chart.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\pe-content-section-header.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\pe-content-section-new-item.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\pe-content-section.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\pe-employee-group-autocomplete.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\pe-employees-autocomplete.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\pe-eval-name-builder.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\pe-process-detail.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\pe-process-workflow-header.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\pe-reminder-settings.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\pe-score-display.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\rating-details-section-header.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\section-library-selector.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\content-settings.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\notes-and-attachments-grid.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\notes-and-attachments.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\pe-content-section-advanced-settings-popover.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\pe-content-section-item-picker.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\pe-content-section-select-department.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\pe-score-editor.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\section-source-type.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Flyouts\add-content-from-section-library.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Flyouts\content-add-edit-item-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Flyouts\content-add-items-to-section-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Flyouts\content-add-note-attachment-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Flyouts\content-advanced-settings-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Flyouts\content-view-item-details-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Flyouts\content-view-section.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Flyouts\reorder-content-sections.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Modals\advanced-settings.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Modals\rating-scale-level-list.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Modals\section-details.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Content\Modals\view-note-and-attachment.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\ContentEditor\pe-content-section-editor-general.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\ContentEditor\pe-content-section-editor-item-details.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\ContentEditor\pe-content-section-editor-main.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\ContentEditor\pe-content-section-editor-new-content-item.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\ContentEditor\pe-content-section-editor-popup.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\ContentEditor\pe-content-section-editor-response-format-picker.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\ContentWeightEditor\pe-content-section-item-weight.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Directives\evaluation-selection-grid.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Directives\pe-rich-text-editor.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Directives\reminderOverdueEditor.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Impersonation\impersonation-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Journal\journal-flyout-new.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Journal\journal-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\pe-process-activity-step.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\pe-process-activity-steps.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\pe-process-empty-section-end.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\pe-process-rating-step.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\pe-process-rating-steps.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\pe-process-release-to-employee-slab.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\pe-process-section-view.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\pe-process-select-assignee.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\pe-process-setting.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\step-section-due-settings.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\Flyouts\add-from-process-library.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\Flyouts\rater-weights-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Process\Flyouts\view-process-section-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\TaskUpdate\taskUpdateFlyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Weight\pe-weight-editor-flyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Weight\pe-weight-editor-item.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\BusinessWidgets\Templates\Weight\pe-weight-editor.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\MockApprovalForm.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\Templates\after-rating-form-rater-summaries.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\Templates\after-rating-form-rating-comparisons.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\Templates\after-rating-form-rating-details-section.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\Templates\approval-form-header.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\Templates\before-rating-form-acknowledgers.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\Templates\before-rating-form-content-details.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\Templates\before-rating-form-content-section.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\Templates\pe-approval-form.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\Templates\Flyouts\approveSignFlyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\Templates\Flyouts\denyFlyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\ApprovalForm\Templates\Flyouts\previousApproversFlyout.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\pe-print-form.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\PrintBlankPreviewDetails.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\PrintPreviewDetails.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\ViewBlankContentDetails.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\ViewContentDetails.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\ViewGeneralSection.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\ViewHeaderDetails.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\ViewNotesAndAttachments.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\ViewProcessDetails.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\ViewRatingScales.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\ViewRatingsSummary.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Templates\ViewScoreSection.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Forms\PrintForm\Views\ViewSidebar.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Components\Flyout\Layout\flyout-header.view.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Components\Flyout\Layout\slide-header.view.cshtml
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Templates\pe-autocomplete-input.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Templates\pe-autocomplete-picker.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Templates\pe-certification-message.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Templates\pe-collapse.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Templates\pe-content-section.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Templates\pe-entity-information-popover.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Templates\pe-form-element.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Templates\pe-loading.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Templates\pe-no-data-info.html
+C:\pe\platform\src\WebApp\scripts\angular\shared\Widgets\Templates\pe-signature.html
+, <a href="#type-it" ng-click="onReset()">Auto-generate</a>, #type-it
+, <a href="#draw-it">Draw signature</a>, #draw-it
+, <a href="#clear">Clear signature</a>, #clear
+C:\pe\platform\src\WebApp\scripts\app\class-specification\class-specification.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\content-library\content-library-add-edit-section-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\content-library\content-library-layout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\content-library\content-library-overview.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\content-library\content-library-section.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\dashboard\dashboard-active-evaluations.view.cshtml
+, <a href="/evaluation" class="btn-simple-link">Go to all evaluations list</a>, /evaluation
+C:\pe\platform\src\WebApp\scripts\app\dashboard\dashboard-all-tasks.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\dashboard\dashboard-evaluations.view.cshtml
+, <a ui-sref="dashboard.controller">@ResLabels.Evaluation @ResLabels.Dashboard </a>, NoTag
+, <a ui-sref="dashboard.goalhome">@ResLabels.Goal.ApplyCustomLabel(CustomLabelKey.Goal) @ResLabels.Dashboard</a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\dashboard\dashboard-goals.view.cshtml
+, <a ui-sref="dashboard.controller">@ResLabels.Evaluation @ResLabels.Dashboard </a>, NoTag
+, <a ui-sref="dashboard.goalhome">@ResLabels.Goal.ApplyCustomLabel(CustomLabelKey.Goal) @ResLabels.Dashboard</a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\dashboard\dashboard-my-evaluations.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\dashboard\dashboard-my-tasks.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\dashboard\dashboard-overdue-task-list-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\dashboard\dashboard-print-journals.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\dashboard\active-evaluation\active-evaluation-filter-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\employee\direct-report\direct-report-all.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\employee\direct-report\direct-report-cards.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\employee\direct-report\direct-report-task-details-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\evaluation-copy-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\evaluation-details.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\evaluation-edit-status.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\evaluation-list.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\evaluation-preview.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\evaluation-rate.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\evaluation-review.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\evaluation-status-bar.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\evaluation-status.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\evaluation-wizard.view.cshtml
+, <a ui-sref-active="active" ui-sref="evaluation.wizardEditor.review">@ResLabels.Review</a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\evaluation\approval-form\approval-form-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\approvals\approvals-list.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\approvals\approvals-preview.view.cshtml
+, <a ui-sref="evaluation.myApprovals.list" class="btn btn-white pull-left"><i class="icon icon-chevron-left icon-xs"></i> @ResLabels.GoBack </a>, NoTag
+, <a ui-sref="evaluation.myApprovals.list" class="btn btn-primary"> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\evaluation\approvals\approvals-status.view.cshtml
+, <a ui-sref="evaluation.myApprovals.list" class="btn btn-white pull-left"><i class="icon icon-chevron-left icon-xs"></i> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\evaluation\audit\audit-action-data-log-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\audit\audit-log.view.cshtml
+, <a href="eval#/{{evaluationStatus.id}}" class="btn-simple-link btn-simple-link-back">back to evaluation detail page</a>, eval#/{{evaluationStatus.id}}
+C:\pe\platform\src\WebApp\scripts\app\evaluation\audit\audit-trail.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\bulk\bulk-add-goals-from-library-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\bulk\bulk-archive.view.cshtml
+, <a ui-sref="evaluation.list.home" class="btn btn-white pull-left"><i class="icon icon-chevron-left icon-xs"></i> @ResLabels.Cancel</a>, NoTag
+, <a ui-sref="evaluation.list.home" class="btn btn-white"> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\evaluation\bulk\bulk-assign-goals-assignment.view.cshtml
+, <a ui-sref="evaluation.list.home" class="btn btn-white">@ResLabels.Cancel</a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\evaluation\bulk\bulk-assign-goals-confirm.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\bulk\bulk-delete.view.cshtml
+, <a ui-sref="evaluation.list.home" class="btn btn-white pull-left"><i class="icon icon-chevron-left icon-xs"></i> @ResLabels.Cancel</a>, NoTag
+, <a ui-sref="evaluation.list.home" class="btn btn-white"> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\evaluation\bulk\bulk-edit-reminder-overdue.view.cshtml
+, <a ui-sref="evaluation.list.home" class="btn btn-white pull-left"><i class="icon icon-chevron-left icon-xs"></i> @ResLabels.GoBack</a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\evaluation\bulk\bulk-edit.view.cshtml
+, <a ui-sref="evaluation.list.home" class="btn btn-white pull-left"><i class="icon icon-chevron-left icon-xs"></i> @ResLabels.GoBack</a>, NoTag
+, <a ui-sref="evaluation.list.home" class="btn btn-white"> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\evaluation\bulk\bulk-goal-slab.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\bulk\bulk-pause-unpause.view.cshtml
+, <a ui-sref="evaluation.list.home" class="btn btn-white pull-left"><i class="icon icon-chevron-left icon-xs"></i> @ResLabels.GoBack</a>, NoTag
+, <a ui-sref="evaluation.list.home" class="btn btn-white"> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\evaluation\bulk\bulk-progress.view.cshtml
+, <a ui-sref="evaluation.list.home" class="btn btn-white pull-left"><i class="icon icon-chevron-left icon-xs"></i> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\evaluation\content\content-add-section-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\content\content-editor.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\content\content-new-section.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\content\content-section-details.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\content\content-section-editor.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\content\content-section-item-list.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\content\content-section-list.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\content\content-settings.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\content\content.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\create\create-preview-settings.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\create\create.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\general\general-edit-due-date-popup.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\general\general-edit-name-popup.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\general\general-edit-type-popup.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\general\general-editor.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\general\general.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\print-form\print-form-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\process-editor.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\process.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\goals\goals-add-edit-goal.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\goals\goals-task-detail.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-activities.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-activity-step.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-activity-task.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-add-edit-rater-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-add-edit-step-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-due-date-slab.view.html
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-raters.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-rating-step.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-rating-task.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-skip-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-task-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-tasks.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\process\steps\steps-unlock-rating-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form-content-section.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form-item-rating-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form-item-reviewers.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form-overall-rating-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form-rating-scale-description-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form-score-display.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form-score-selection.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form-sidebar.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form-signature.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form-summary-screen.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form-writing-assistant.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\evaluation\rating-form\rating-form.view.cshtml
+, <a href="eval#/{{evaluationId}}" class="btn-simple-link btn-simple-link-back">back to evaluation detail page</a>, eval#/{{evaluationId}}
+C:\pe\platform\src\WebApp\scripts\app\goal\goal-my-goals.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\goal.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\add-edit\add-edit-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\add-edit\add-edit.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\alignment\alignment-details.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\alignment\alignment-inline-content.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\assign-from-library\assign-from-library-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\milestone\milestone-details.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\milestone\milestone-inline-content.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\progress\progress-bar.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\progress\progress-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\progress\progress-history.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\progress\progress-slider.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\tracking\tracking-chart.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\goal\tracking\tracking-refine-tracking-flyout.view.cshtml
+, <a class="divider"></a>, NoTag
+, <a class="divider"></a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\goal\tracking\tracking.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\loader\loader.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\narrative\narrative-add-edit-view-popup.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\narrative\narrative-layout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\narrative\narrative-list.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\position\position-employees-modal.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\position\position-list.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\position\position-programs-modal.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\position\bulk\bulk-assign-to-program.view.cshtml
+, <a ui-sref="positionApp.list" class="btn btn-white">@ResLabels.Cancel</a>, NoTag
+, <a ui-sref="positionApp.list" class="btn btn-white"> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\position\bulk\bulk-remove-from-program.view.cshtml
+, <a ui-sref="positionApp.list" class="btn btn-white">@ResLabels.Cancel</a>, NoTag
+, <a ui-sref="positionApp.list" class="btn btn-white"> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\position\bulk\bulk-result.view.cshtml
+, <a ng-href="{{ '/evaluationprogram#/' + programId + '/review' }}" target="_blank">{{ programName }}</a>, {{ 
+C:\pe\platform\src\WebApp\scripts\app\position\bulk\bulk-results.view.cshtml
+, <a ui-sref="positionApp.list" class="btn btn-success"> @ResLabels.GoBack </a>, NoTag
+, <a ui-sref="positionApp.list" class="btn btn-white"> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\process\process-rater.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\process\process-step.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\process-library\process-library.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\process-library\create-process\create-process.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\process-library\detail\detail.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\process-library\detail\edit-name\edit-name.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\process-library\list\list.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\process-library\view-process\view-process.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\program-list.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\program-wizard.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\content\content-add-section-competency-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\content\content-add-section-goal-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\content\content-add-section-narrative-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\content\content-details.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\content\content-section-weights-popup.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\content\content-section.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\content\content-settings.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\content\content.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\general\general-automatic-naming.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\general\general.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\people\people-grid.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\people\people.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\people\add\add-people-entity-details-grid.view.html
+C:\pe\platform\src\WebApp\scripts\app\program\people\add\add-people-modal.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\people\details\details-grid.view.html
+C:\pe\platform\src\WebApp\scripts\app\program\people\details\details-view-all-modal.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\process\process-dragdrop-element.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\process\process-save-to-library-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\process\process.view.cshtml
+, <a ui-sref="evaluationProgram.content({id: relatedEntityId})" class="btn btn-white btn-sm"><i class="icon icon-xs icon-chevron-left"></i>Previous</a >, NoTag
+, <a ui-sref="evaluationProgram.people({id: relatedEntityId})" class="btn btn-primary btn-sm">Next<i class="icon  icon-xs icon-angle-right"></i></a >, NoTag
+C:\pe\platform\src\WebApp\scripts\app\program\process\timeline\timeline-date.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\process\timeline\timeline-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\process\timeline\timeline-raters.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\process\timeline\timeline-setting.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\process\timeline\timeline-steps.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\review\review-content.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\review\review-copy-program-popup.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\review\review-general.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\review\review-people.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\program\review\review-process.view.html
+C:\pe\platform\src\WebApp\scripts\app\program\review\review.view.cshtml
+, <a ui-sref="evaluationProgram.people({id: programId})" class="btn btn-white btn-sm" ng-disabled="isProgramActive"><i class="icon icon-xs icon-chevron-left"></i>@ResLabels.Previous</a>, NoTag
+C:\pe\platform\src\WebApp\scripts\app\rating-scale\library\library-layout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\rating-scale\library\library-list.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\rating-scale\library\level\level.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\rating-scale\library\settings\settings-programs-flyout.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\rating-scale\library\settings\settings.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\scheduled-export\scheduled-export-artifact.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\scheduled-export\scheduled-export.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\task\task-action-link.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\task\task-icon.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\task\task-quickfilter.view.cshtml
+C:\pe\platform\src\WebApp\scripts\app\task\task-type.view.cshtml
+C:\pe\platform\src\WebApp\scripts\Areas\Employee\EmployeeDetails\GoalsProgress\directive.cshtml
+C:\pe\platform\src\WebApp\scripts\Areas\Reports\EmployeeGoals\view.cshtml
+C:\pe\platform\src\WebApp\scripts\Areas\Reports\EvaluationStatusDetail\view.cshtml
+C:\pe\platform\src\WebApp\scripts\Areas\Reports\ItemRating\view.cshtml
+C:\pe\platform\src\WebApp\scripts\Areas\Reports\List\view.cshtml
+C:\pe\platform\src\WebApp\scripts\Areas\Reports\PerformanceRating\view.cshtml
+C:\pe\platform\src\WebApp\scripts\Areas\Reports\PerformanceRating\Settings\flyout-view.cshtml
+C:\pe\platform\src\WebApp\scripts\Areas\User\Templates\User-BulkOperationStatus.cshtml
+, <a ui-sref="user.list" class="btn btn-white pull-left"><i class="icon icon-chevron-left icon-xs"></i> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\Areas\User\Templates\User-BulkSendActivation.cshtml
+, <a ui-sref="user.list" class="btn btn-white pull-left"><i class="icon icon-chevron-left icon-xs"></i> @ResLabels.Cancel</a>, NoTag
+, <a ui-sref="user.list" class="btn btn-white"> @ResLabels.GoBack </a>, NoTag
+C:\pe\platform\src\WebApp\scripts\Areas\User\Templates\User-List.cshtml
+C:\pe\platform\src\WebApp\scripts\framework\alert-box\alert-box.view.cshtml
+C:\pe\platform\src\WebApp\scripts\framework\components\html-popup.view.cshtml
+C:\pe\platform\src\WebApp\scripts\framework\entity-autocomplete\entity-autocomplete.view.cshtml
+C:\pe\platform\src\WebApp\scripts\framework\inline-add-edit\inline-add-edit-entity.view.cshtml
+C:\pe\platform\src\WebApp\scripts\framework\toggle-section\toggle-section.view.cshtml
