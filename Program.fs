@@ -6,12 +6,6 @@ open System.Xml
 open System.Text.RegularExpressions
 open FSharp.Data
 
-type TagConfig = {
-    tag: string
-    attr: string
-    empty: string
-}
-
 let getTagValue (tagString: string, matchValue: string) =
     let tagAndValue = Regex.Match(matchValue, sprintf "(%s)\s*=\s*['\"]([^'\"]*)['\"]" tagString)
     let valueIfAny =
